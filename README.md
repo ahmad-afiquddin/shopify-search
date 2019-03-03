@@ -13,6 +13,5 @@ Working on next:
   
   - Adding discord chat bot that gets commands from user through discord and notifies user through chat
   
-  - Adding a gui to make everything cleaner (this will take a lot of self-learning)
   
   
